@@ -1,0 +1,5 @@
+Asset,Threat,Vulnerability,Likelihood,Impact,Risk Level,Mitigation
+Patient Records DB,Data Breach,Weak access control,High,High,Critical,Implement MFA and RBAC
+Staff Email System,Phishing,Lack of awareness,High,Medium,High,Conduct training
+Network Router,Unauthorized Access,Default credentials,Medium,High,High,Change credentials
+Staff Devices,Malware,No endpoint protection,Medium,Medium,Medium,Install antivirus
